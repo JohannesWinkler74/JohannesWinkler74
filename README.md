@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JohannesWinkler74
 - 👀 I’m interested in python
 - 🌱 I’m currently learning about neural networks
-- 💞️ I’m looking to collaborate on pattern rocgnition
+- 💞️ I’m looking to collaborate on pattern recognition
 - 📫 How to reach me johannes.winkler74@web.de
 
 <!---
